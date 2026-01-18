@@ -1,0 +1,201 @@
+claim_id,customer_id,claim_amount,claim_type,claim_date,policy_id,customer_age,policy_duration,policy_start_date,policy_coverage,previous_claims,claim_description,location,risk_level
+CLM-2024-10000,CUST-8583,18053.25,auto,2025-02-13,POL-566991,40,27,2022-11-26,58223.85,0,Single vehicle accident,"Philadelphia, PA",low
+CLM-2024-10001,CUST-2783,3916.88,health,2024-09-07,POL-284308,39,22,2022-11-17,9663.01,0,Physical therapy treatment,"Los Angeles, CA",low
+CLM-2024-10002,CUST-4218,3307.48,health,2025-08-28,POL-376021,36,58,2020-11-22,8962.11,0,Physical therapy treatment,"Los Angeles, CA",low
+CLM-2024-10003,CUST-9309,1647.98,health,2025-12-30,POL-762308,39,62,2020-11-26,6451.15,0,Specialist consultation,"New York, NY",low
+CLM-2024-10004,CUST-4485,1464.53,health,2024-06-05,POL-138436,54,18,2022-12-13,4153.99,1,Diagnostic tests and imaging,"Phoenix, AZ",low
+CLM-2024-10005,CUST-3435,2582.22,health,2024-07-15,POL-483588,37,59,2019-09-10,6275.33,0,Diagnostic tests and imaging,"San Antonio, TX",low
+CLM-2024-10006,CUST-5767,26686.13,auto,2024-05-25,POL-240384,33,72,2018-06-26,98798.4,1,Vandalism damage to vehicle,"Dallas, TX",low
+CLM-2024-10007,CUST-6961,3661.32,health,2025-10-18,POL-626560,22,32,2023-03-03,8623.62,1,Diagnostic tests and imaging,"New York, NY",low
+CLM-2024-10008,CUST-3717,10986.65,health,2024-04-30,POL-893988,44,16,2023-01-06,41462.2,0,Prescription medication costs,"Chicago, IL",low
+CLM-2024-10009,CUST-3395,35512.27,home,2025-07-19,POL-871667,67,40,2022-04-06,91772.08,0,Vandalism to property,"Dallas, TX",low
+CLM-2024-10010,CUST-8989,163020.6,life,2025-12-08,POL-343007,39,37,2022-11-24,546782.21,1,Terminal illness benefit,"Los Angeles, CA",low
+CLM-2024-10011,CUST-4387,11844.75,auto,2025-05-24,POL-643042,51,12,2024-05-29,29667.43,0,Vehicle collision on highway,"Philadelphia, PA",low
+CLM-2024-10012,CUST-1653,225931.26,home,2024-10-10,POL-780027,36,33,2022-01-24,697418.25,0,Water damage from pipe burst,"Philadelphia, PA",low
+CLM-2024-10013,CUST-5480,3878.6,auto,2024-08-03,POL-975427,53,18,2023-02-10,8648.42,0,Vandalism damage to vehicle,"Phoenix, AZ",low
+CLM-2024-10014,CUST-7171,59706.89,health,2024-06-14,POL-785428,43,5,2024-01-16,160477.24,3,Surgical procedure,"San Antonio, TX",high
+CLM-2024-10015,CUST-2275,68832.24,home,2024-03-20,POL-641760,45,29,2021-11-01,180121.32,0,Electrical fire damage,"Phoenix, AZ",low
+CLM-2024-10016,CUST-7649,14710.78,home,2025-06-04,POL-470040,41,1,2025-05-05,58007.69,0,Vandalism to property,"Philadelphia, PA",low
+CLM-2024-10017,CUST-1108,5297.77,home,2024-09-12,POL-626214,56,43,2021-03-02,9974.97,0,Vandalism to property,"Chicago, IL",low
+CLM-2024-10018,CUST-9430,137810.89,home,2025-05-28,POL-774734,55,31,2022-11-10,324421.0,2,Water damage from pipe burst,"Phoenix, AZ",high
+CLM-2024-10019,CUST-6934,9863.18,auto,2025-07-11,POL-731264,36,54,2021-02-02,22878.7,0,Rear-end accident in parking lot,"Los Angeles, CA",low
+CLM-2024-10020,CUST-6410,31111.51,health,2024-11-20,POL-855242,50,12,2023-11-26,113132.91,0,Specialist consultation,"Los Angeles, CA",low
+CLM-2024-10021,CUST-4452,14139.62,home,2024-09-15,POL-719489,57,2,2024-07-17,36421.77,2,Theft of personal property,"Chicago, IL",high
+CLM-2024-10022,CUST-4992,1406.1,health,2024-11-24,POL-145240,52,18,2023-06-03,2853.49,1,Emergency room visit,"Chicago, IL",low
+CLM-2024-10023,CUST-9399,3431.48,health,2025-08-07,POL-141094,43,19,2024-01-15,8882.35,1,Surgical procedure,"Chicago, IL",low
+CLM-2024-10024,CUST-9464,17480.47,auto,2025-04-29,POL-525151,45,7,2024-10-01,57951.47,0,Rear-end accident in parking lot,"New York, NY",low
+CLM-2024-10025,CUST-5644,1707.47,health,2024-03-12,POL-189913,39,18,2022-09-19,5124.9,0,Specialist consultation,"Houston, TX",low
+CLM-2024-10026,CUST-8891,5868.04,home,2024-09-23,POL-278852,39,23,2022-11-03,17482.61,3,Electrical fire damage,"Houston, TX",low
+CLM-2024-10027,CUST-3979,1017.92,health,2024-05-13,POL-753484,53,23,2022-06-23,2773.29,0,Surgical procedure,"Phoenix, AZ",low
+CLM-2024-10028,CUST-8429,11570.53,auto,2024-02-16,POL-725510,18,17,2022-09-24,40646.53,0,Side-impact collision at intersection,"Los Angeles, CA",low
+CLM-2024-10029,CUST-2778,3734.56,auto,2024-12-20,POL-117367,73,13,2023-11-26,10813.15,0,Rear-end accident in parking lot,"Houston, TX",low
+CLM-2024-10030,CUST-7877,3670.14,health,2024-08-20,POL-966662,53,61,2019-08-17,8513.66,0,Prescription medication costs,"Chicago, IL",low
+CLM-2024-10031,CUST-1639,3039.82,health,2025-07-21,POL-921945,18,60,2020-08-16,8760.87,0,Diagnostic tests and imaging,"Los Angeles, CA",low
+CLM-2024-10032,CUST-9835,44562.63,auto,2024-03-14,POL-967719,43,2,2024-01-14,135268.33,1,Rear-end accident in parking lot,"New York, NY",low
+CLM-2024-10033,CUST-8069,448.79,health,2024-02-24,POL-647403,43,13,2023-01-30,792.29,0,Prescription medication costs,"San Antonio, TX",low
+CLM-2024-10034,CUST-9680,47098.3,home,2025-12-05,POL-549793,37,5,2025-07-08,161164.16,0,Tree fell on house,"Houston, TX",low
+CLM-2024-10035,CUST-6742,30509.99,life,2024-09-12,POL-717661,46,3,2024-06-14,49788.03,0,Critical illness claim,"Los Angeles, CA",low
+CLM-2024-10036,CUST-4809,10993.41,home,2025-05-03,POL-187889,43,44,2021-09-21,28080.26,0,Theft of personal property,"Phoenix, AZ",low
+CLM-2024-10037,CUST-5223,2147.19,health,2024-07-11,POL-298202,44,20,2022-11-19,5005.24,0,Diagnostic tests and imaging,"New York, NY",low
+CLM-2024-10038,CUST-9561,3049.23,health,2026-01-11,POL-223552,34,10,2025-03-17,10417.66,0,Physical therapy treatment,"New York, NY",low
+CLM-2024-10039,CUST-6175,74556.48,home,2025-06-22,POL-528705,49,28,2023-03-05,229404.78,0,Tree fell on house,"Philadelphia, PA",low
+CLM-2024-10040,CUST-5155,473.86,auto,2024-11-08,POL-373995,27,34,2022-01-23,1087.56,0,Vandalism damage to vehicle,"San Antonio, TX",low
+CLM-2024-10041,CUST-7511,4695.67,health,2024-05-02,POL-891645,58,22,2022-07-12,9975.3,0,Hospital admission,"Houston, TX",low
+CLM-2024-10042,CUST-3928,13384.86,home,2024-06-27,POL-488196,58,19,2022-12-05,23409.44,0,Theft of personal property,"Dallas, TX",low
+CLM-2024-10043,CUST-6641,1583.07,auto,2025-03-10,POL-911801,65,1,2025-02-08,2873.73,2,Theft of vehicle parts,"San Antonio, TX",high
+CLM-2024-10044,CUST-4764,9633.04,health,2024-03-14,POL-568288,66,12,2023-03-20,36105.81,1,Emergency room visit,"Chicago, IL",low
+CLM-2024-10045,CUST-6544,11142.49,auto,2024-08-16,POL-939756,30,8,2023-12-20,42030.21,0,Single vehicle accident,"New York, NY",low
+CLM-2024-10046,CUST-2492,25018.58,auto,2024-04-07,POL-963245,56,8,2023-08-11,84841.2,0,Vehicle collision on highway,"Chicago, IL",low
+CLM-2024-10047,CUST-2444,18510.89,home,2024-05-14,POL-167193,21,23,2022-06-24,42860.59,0,Theft of personal property,"Phoenix, AZ",low
+CLM-2024-10048,CUST-1618,7296.92,auto,2025-10-29,POL-859687,27,100,2017-08-12,13323.32,0,Theft of vehicle parts,"San Antonio, TX",low
+CLM-2024-10049,CUST-1941,29786.2,life,2024-12-04,POL-911187,54,13,2023-11-10,46243.76,0,Accidental death claim,"Chicago, IL",low
+CLM-2024-10050,CUST-4304,2304.17,health,2024-10-26,POL-991884,44,40,2021-07-14,6557.46,1,Emergency room visit,"Phoenix, AZ",low
+CLM-2024-10051,CUST-9451,17332.21,auto,2024-05-15,POL-832377,41,42,2020-12-02,66529.45,0,Theft of vehicle parts,"Houston, TX",low
+CLM-2024-10052,CUST-6893,41388.42,health,2024-02-28,POL-350878,28,66,2018-09-27,96452.87,0,Emergency room visit,"New York, NY",low
+CLM-2024-10053,CUST-7544,129346.54,life,2025-10-22,POL-470281,60,63,2020-08-19,452065.52,0,Accidental death claim,"San Antonio, TX",low
+CLM-2024-10054,CUST-1251,24022.23,home,2025-06-27,POL-872722,43,11,2024-08-01,54319.69,0,Vandalism to property,"Los Angeles, CA",low
+CLM-2024-10055,CUST-6703,36565.31,life,2024-07-05,POL-464354,63,13,2023-06-11,141479.06,1,Accidental death claim,"Phoenix, AZ",low
+CLM-2024-10056,CUST-7618,2712.52,auto,2025-07-03,POL-702833,34,33,2022-10-17,8193.24,0,Single vehicle accident,"New York, NY",low
+CLM-2024-10057,CUST-2744,5582.12,auto,2024-11-28,POL-685766,69,6,2024-06-01,12558.78,0,Theft of vehicle parts,"Los Angeles, CA",low
+CLM-2024-10058,CUST-9409,4240.39,health,2025-02-04,POL-370211,25,10,2024-04-10,6968.99,0,Emergency room visit,"Phoenix, AZ",low
+CLM-2024-10059,CUST-8923,6710.34,health,2024-12-28,POL-907369,59,3,2024-09-29,21217.08,0,Physical therapy treatment,"Houston, TX",low
+CLM-2024-10060,CUST-8548,1769.9,health,2024-10-06,POL-715332,70,12,2023-10-12,2687.39,0,Prescription medication costs,"New York, NY",low
+CLM-2024-10061,CUST-7269,101343.49,home,2025-04-29,POL-764442,61,1,2025-03-30,400061.49,0,Water damage from pipe burst,"Houston, TX",high
+CLM-2024-10062,CUST-6172,83.94,health,2025-05-28,POL-532459,45,57,2020-09-21,293.33,1,Specialist consultation,"Philadelphia, PA",low
+CLM-2024-10063,CUST-5314,25781.51,health,2026-01-09,POL-360316,43,15,2024-10-16,100980.13,0,Prescription medication costs,"Phoenix, AZ",low
+CLM-2024-10064,CUST-6603,10337.47,auto,2024-02-29,POL-179721,37,47,2020-04-20,17283.06,0,Vandalism damage to vehicle,"Chicago, IL",low
+CLM-2024-10065,CUST-5408,107319.19,home,2025-01-21,POL-291663,18,50,2020-12-13,382717.57,0,Fire damage to kitchen,"Houston, TX",low
+CLM-2024-10066,CUST-4965,24367.41,home,2025-06-28,POL-378297,35,85,2018-07-05,54270.9,0,Fire damage to kitchen,"Houston, TX",low
+CLM-2024-10067,CUST-6833,7346.75,auto,2025-05-08,POL-263573,62,8,2024-09-10,13390.76,0,Hit and run incident,"Los Angeles, CA",low
+CLM-2024-10068,CUST-9071,3975.98,auto,2025-10-30,POL-743644,59,15,2024-08-06,7615.84,0,Vandalism damage to vehicle,"New York, NY",low
+CLM-2024-10069,CUST-8901,3781.1,health,2024-07-13,POL-489227,51,10,2023-09-17,7365.24,1,Emergency room visit,"Philadelphia, PA",low
+CLM-2024-10070,CUST-5501,71026.9,home,2024-06-09,POL-614646,43,29,2022-01-21,123710.14,1,Electrical fire damage,"Chicago, IL",low
+CLM-2024-10071,CUST-7518,159902.49,life,2024-08-13,POL-332881,30,4,2024-04-15,248587.09,0,Accidental death claim,"Chicago, IL",high
+CLM-2024-10072,CUST-9859,11608.3,auto,2024-11-11,POL-134144,37,15,2023-08-19,29843.54,0,Single vehicle accident,"Philadelphia, PA",low
+CLM-2024-10073,CUST-3863,67765.26,home,2024-02-16,POL-579404,42,18,2022-08-25,167584.95,0,Electrical fire damage,"Los Angeles, CA",low
+CLM-2024-10074,CUST-1137,469.43,health,2024-10-04,POL-112394,61,62,2019-09-01,1235.57,1,Hospital admission,"Houston, TX",low
+CLM-2024-10075,CUST-6924,5953.59,home,2025-10-07,POL-742544,48,7,2025-03-11,14957.93,0,Storm damage to roof,"Phoenix, AZ",low
+CLM-2024-10076,CUST-5413,9408.38,auto,2025-04-24,POL-594241,33,4,2024-12-25,26119.08,0,Rear-end accident in parking lot,"Philadelphia, PA",low
+CLM-2024-10077,CUST-4449,5702.93,home,2024-08-26,POL-539450,32,2,2024-06-27,22334.93,0,Theft of personal property,"Philadelphia, PA",low
+CLM-2024-10078,CUST-8384,36904.13,home,2024-12-04,POL-288627,42,20,2023-04-14,130150.12,1,Storm damage to roof,"Chicago, IL",low
+CLM-2024-10079,CUST-2636,61375.35,life,2024-02-16,POL-855829,40,7,2023-07-21,198381.84,0,Terminal illness benefit,"Phoenix, AZ",low
+CLM-2024-10080,CUST-7240,328.39,health,2024-06-29,POL-305587,49,18,2023-01-06,631.46,0,Diagnostic tests and imaging,"Chicago, IL",low
+CLM-2024-10081,CUST-1159,4624.73,health,2025-08-18,POL-285186,82,6,2025-02-19,14972.22,0,Diagnostic tests and imaging,"San Antonio, TX",low
+CLM-2024-10082,CUST-9748,22253.78,home,2024-04-13,POL-855562,49,22,2022-06-23,76338.92,0,Vandalism to property,"Philadelphia, PA",low
+CLM-2024-10083,CUST-1781,901.13,health,2025-03-17,POL-517754,39,10,2024-05-21,3112.91,0,Hospital admission,"Los Angeles, CA",low
+CLM-2024-10084,CUST-5166,4370.59,health,2025-11-18,POL-599687,66,20,2024-03-28,15406.1,0,Surgical procedure,"Los Angeles, CA",low
+CLM-2024-10085,CUST-6914,9270.37,home,2025-02-10,POL-477808,33,16,2023-10-19,14116.16,0,Storm damage to roof,"Phoenix, AZ",low
+CLM-2024-10086,CUST-6752,307265.59,home,2024-11-23,POL-812597,47,14,2023-09-30,1124155.42,1,Water damage from pipe burst,"Houston, TX",low
+CLM-2024-10087,CUST-9821,955.81,health,2024-03-24,POL-283017,48,48,2020-04-14,3149.43,0,Prescription medication costs,"Phoenix, AZ",low
+CLM-2024-10088,CUST-8987,16560.02,home,2024-02-29,POL-912378,33,14,2023-01-05,60736.36,0,Vandalism to property,"Dallas, TX",low
+CLM-2024-10089,CUST-5694,3172.78,health,2024-12-24,POL-586279,56,81,2018-04-30,7305.3,0,Physical therapy treatment,"Chicago, IL",low
+CLM-2024-10090,CUST-6527,7380.97,health,2024-04-03,POL-542306,74,7,2023-09-06,11981.06,1,Specialist consultation,"San Antonio, TX",low
+CLM-2024-10091,CUST-3654,787.12,health,2025-11-06,POL-460317,21,9,2025-02-09,1811.82,0,Emergency room visit,"Houston, TX",low
+CLM-2024-10092,CUST-5382,6905.65,home,2024-03-21,POL-734792,36,88,2016-12-28,18036.05,0,Storm damage to roof,"San Antonio, TX",low
+CLM-2024-10093,CUST-6950,8483.44,auto,2024-10-20,POL-884225,49,6,2024-04-23,25605.66,1,Hit and run incident,"Dallas, TX",low
+CLM-2024-10094,CUST-1378,10594.35,home,2025-07-14,POL-231113,48,1,2025-06-14,35479.98,0,Electrical fire damage,"Houston, TX",low
+CLM-2024-10095,CUST-2311,2577.4,health,2024-02-01,POL-320800,52,1,2024-01-02,5268.13,1,Prescription medication costs,"Chicago, IL",low
+CLM-2024-10096,CUST-8752,3524.16,home,2025-10-13,POL-675074,63,18,2024-04-21,7838.86,0,Water damage from pipe burst,"New York, NY",low
+CLM-2024-10097,CUST-2363,4106.26,auto,2024-12-08,POL-208976,33,12,2023-12-14,9923.59,1,Theft of vehicle parts,"Phoenix, AZ",low
+CLM-2024-10098,CUST-7387,4443.31,health,2025-10-24,POL-424398,49,74,2019-09-26,7420.74,1,Prescription medication costs,"Houston, TX",low
+CLM-2024-10099,CUST-3071,3318.18,auto,2025-04-03,POL-237654,27,16,2023-12-10,7960.94,2,Single vehicle accident,"Chicago, IL",low
+CLM-2024-10100,CUST-6328,25031.97,auto,2024-03-10,POL-599284,28,1,2024-02-09,63154.57,1,Side-impact collision at intersection,"Dallas, TX",low
+CLM-2024-10101,CUST-9987,20400.63,life,2024-07-14,POL-566453,63,34,2021-09-28,71995.2,0,Accidental death claim,"Chicago, IL",low
+CLM-2024-10102,CUST-8480,10015.95,life,2024-02-04,POL-761701,38,31,2021-07-19,31608.28,2,Terminal illness benefit,"San Antonio, TX",low
+CLM-2024-10103,CUST-6073,6628.51,health,2024-04-04,POL-464032,56,4,2023-12-06,14494.33,1,Physical therapy treatment,"Dallas, TX",low
+CLM-2024-10104,CUST-6044,3053.29,health,2025-10-19,POL-483551,18,20,2024-02-27,9402.01,1,Diagnostic tests and imaging,"San Antonio, TX",low
+CLM-2024-10105,CUST-1001,8327.46,auto,2025-03-14,POL-648736,35,6,2024-09-15,18949.87,0,Vehicle collision on highway,"Chicago, IL",low
+CLM-2024-10106,CUST-1136,4389.97,home,2024-09-25,POL-821179,45,9,2023-12-30,11677.16,0,Vandalism to property,"Dallas, TX",low
+CLM-2024-10107,CUST-1149,122500.79,life,2024-09-17,POL-903072,51,2,2024-07-19,218653.46,2,Accidental death claim,"San Antonio, TX",high
+CLM-2024-10108,CUST-1118,9588.76,health,2024-05-17,POL-674842,60,20,2022-09-25,27057.26,1,Surgical procedure,"Philadelphia, PA",low
+CLM-2024-10109,CUST-7467,5860.95,auto,2024-06-23,POL-362035,46,2,2024-04-24,13079.52,0,Single vehicle accident,"Chicago, IL",low
+CLM-2024-10110,CUST-7199,6020.99,health,2024-03-28,POL-331307,28,28,2021-12-09,10601.66,1,Diagnostic tests and imaging,"Phoenix, AZ",low
+CLM-2024-10111,CUST-9464,62446.76,auto,2024-04-18,POL-901676,18,2,2024-02-18,222963.95,1,Rear-end accident in parking lot,"Phoenix, AZ",high
+CLM-2024-10112,CUST-5404,9876.53,auto,2024-07-23,POL-532961,34,2,2024-05-24,21172.3,0,Hit and run incident,"Houston, TX",low
+CLM-2024-10113,CUST-5744,1948.38,health,2025-07-16,POL-215717,38,11,2024-08-20,6989.69,1,Surgical procedure,"Dallas, TX",low
+CLM-2024-10114,CUST-9060,8164.71,health,2025-04-15,POL-296911,35,31,2022-09-28,25292.39,0,Prescription medication costs,"Philadelphia, PA",low
+CLM-2024-10115,CUST-1362,3089.61,auto,2025-11-29,POL-294969,31,64,2020-08-27,10015.66,0,Theft of vehicle parts,"Los Angeles, CA",low
+CLM-2024-10116,CUST-8183,13511.91,auto,2025-09-12,POL-862427,56,88,2018-06-21,48029.41,1,Vandalism damage to vehicle,"New York, NY",low
+CLM-2024-10117,CUST-9086,30365.48,auto,2025-08-17,POL-327738,64,3,2025-05-19,78884.25,2,Vehicle collision on highway,"Philadelphia, PA",high
+CLM-2024-10118,CUST-8597,13878.12,home,2024-08-26,POL-830789,43,42,2021-03-15,22728.94,1,Storm damage to roof,"New York, NY",low
+CLM-2024-10119,CUST-5366,1099.19,home,2025-08-22,POL-913331,29,63,2020-06-19,3092.35,1,Water damage from pipe burst,"San Antonio, TX",low
+CLM-2024-10120,CUST-4148,881.52,auto,2024-09-24,POL-982417,39,10,2023-11-29,2898.71,1,Rear-end accident in parking lot,"Phoenix, AZ",low
+CLM-2024-10121,CUST-5078,898.59,health,2026-01-06,POL-503489,31,3,2025-10-08,2690.56,1,Emergency room visit,"Dallas, TX",low
+CLM-2024-10122,CUST-8550,870.9,auto,2025-12-15,POL-871041,18,1,2025-11-15,1839.03,1,Rear-end accident in parking lot,"Los Angeles, CA",low
+CLM-2024-10123,CUST-7375,3265.55,health,2025-06-19,POL-814544,62,50,2021-05-11,9393.11,0,Diagnostic tests and imaging,"Phoenix, AZ",low
+CLM-2024-10124,CUST-9534,194648.06,life,2025-08-09,POL-228074,41,10,2024-10-13,336426.42,0,Death benefit claim,"Phoenix, AZ",low
+CLM-2024-10125,CUST-6905,132727.37,home,2025-03-19,POL-154617,52,4,2024-11-19,260228.15,0,Fire damage to kitchen,"Houston, TX",high
+CLM-2024-10126,CUST-6316,32019.98,life,2025-05-22,POL-115799,46,44,2021-10-10,51952.79,0,Critical illness claim,"Chicago, IL",low
+CLM-2024-10127,CUST-7484,7578.66,health,2024-05-30,POL-927477,64,9,2023-09-03,22666.76,0,Emergency room visit,"Houston, TX",low
+CLM-2024-10128,CUST-8786,32813.36,auto,2025-12-06,POL-821846,56,20,2024-04-15,66109.24,1,Theft of vehicle parts,"Chicago, IL",low
+CLM-2024-10129,CUST-3583,14595.11,home,2025-10-19,POL-624203,31,3,2025-07-21,57020.63,1,Fire damage to kitchen,"Los Angeles, CA",low
+CLM-2024-10130,CUST-1983,9883.88,health,2025-02-06,POL-162678,27,2,2024-12-08,30103.46,1,Specialist consultation,"Philadelphia, PA",low
+CLM-2024-10131,CUST-2759,21349.38,health,2024-01-31,POL-231939,55,43,2020-07-20,71921.83,0,Physical therapy treatment,"Dallas, TX",low
+CLM-2024-10132,CUST-6690,17267.21,auto,2024-06-26,POL-944654,38,24,2022-07-07,67254.53,0,Hit and run incident,"Dallas, TX",low
+CLM-2024-10133,CUST-7189,2460.06,health,2025-12-28,POL-475565,46,4,2025-08-30,5137.73,1,Prescription medication costs,"Chicago, IL",low
+CLM-2024-10134,CUST-8168,8008.64,auto,2025-12-09,POL-686179,57,5,2025-07-12,27208.89,0,Single vehicle accident,"Phoenix, AZ",low
+CLM-2024-10135,CUST-4057,4924.55,health,2024-09-04,POL-670027,58,3,2024-06-06,9316.76,1,Surgical procedure,"Philadelphia, PA",low
+CLM-2024-10136,CUST-3627,164860.1,home,2024-09-26,POL-172222,57,33,2022-01-10,431921.78,0,Storm damage to roof,"Chicago, IL",low
+CLM-2024-10137,CUST-7014,20874.95,home,2025-04-24,POL-576136,48,8,2024-08-27,49815.37,0,Vandalism to property,"New York, NY",low
+CLM-2024-10138,CUST-4039,9131.62,health,2024-08-18,POL-119629,21,59,2019-10-14,34148.05,0,Diagnostic tests and imaging,"Philadelphia, PA",low
+CLM-2024-10139,CUST-2037,1612.98,health,2025-05-19,POL-790266,49,57,2020-09-12,6324.2,0,Hospital admission,"San Antonio, TX",low
+CLM-2024-10140,CUST-3525,7558.8,auto,2024-02-19,POL-742818,54,27,2021-12-01,14896.55,0,Single vehicle accident,"Phoenix, AZ",low
+CLM-2024-10141,CUST-2809,15807.07,home,2024-04-02,POL-200932,36,3,2024-01-03,40424.35,0,Storm damage to roof,"Los Angeles, CA",low
+CLM-2024-10142,CUST-1512,11430.65,auto,2025-09-08,POL-311895,38,3,2025-06-10,19935.34,1,Rear-end accident in parking lot,"Los Angeles, CA",low
+CLM-2024-10143,CUST-7366,79953.43,home,2025-10-09,POL-789880,37,25,2023-09-20,255276.16,0,Water damage from pipe burst,"Dallas, TX",low
+CLM-2024-10144,CUST-5193,44382.81,health,2024-01-31,POL-151470,60,7,2023-07-05,117122.55,0,Physical therapy treatment,"Philadelphia, PA",low
+CLM-2024-10145,CUST-4419,20852.13,auto,2025-11-07,POL-787603,47,42,2022-05-27,67340.79,1,Vehicle collision on highway,"Dallas, TX",low
+CLM-2024-10146,CUST-1994,31647.44,life,2025-10-29,POL-478458,56,2,2025-08-30,97366.14,2,Critical illness claim,"San Antonio, TX",high
+CLM-2024-10147,CUST-5355,270.44,health,2024-01-24,POL-654718,19,8,2023-05-29,997.07,3,Emergency room visit,"New York, NY",low
+CLM-2024-10148,CUST-4537,17627.51,health,2025-03-13,POL-644719,31,1,2025-02-11,66641.16,0,Emergency room visit,"Los Angeles, CA",low
+CLM-2024-10149,CUST-7313,18757.5,auto,2025-05-27,POL-298663,65,7,2024-10-29,45736.48,1,Theft of vehicle parts,"Houston, TX",low
+CLM-2024-10150,CUST-3931,8435.85,health,2025-05-09,POL-685549,29,41,2021-12-26,26410.14,0,Physical therapy treatment,"San Antonio, TX",low
+CLM-2024-10151,CUST-6864,440.61,health,2024-04-05,POL-807256,69,2,2024-02-05,1662.82,0,Physical therapy treatment,"Dallas, TX",low
+CLM-2024-10152,CUST-3733,2088.16,health,2024-11-07,POL-930956,56,120,2014-12-30,4516.54,0,Emergency room visit,"Chicago, IL",low
+CLM-2024-10153,CUST-3591,5522.8,health,2024-08-20,POL-659835,48,59,2019-10-16,19262.29,0,Hospital admission,"Dallas, TX",low
+CLM-2024-10154,CUST-7090,44392.16,life,2025-03-02,POL-532373,36,7,2024-08-04,76398.57,1,Accidental death claim,"San Antonio, TX",low
+CLM-2024-10155,CUST-4943,75419.1,health,2025-02-21,POL-690500,27,4,2024-10-24,126339.94,2,Physical therapy treatment,"Houston, TX",high
+CLM-2024-10156,CUST-5162,25952.06,home,2024-07-04,POL-477496,55,16,2023-03-12,84901.1,1,Tree fell on house,"Dallas, TX",low
+CLM-2024-10157,CUST-1567,42478.92,home,2024-12-08,POL-398301,33,10,2024-02-12,102112.97,1,Water damage from pipe burst,"New York, NY",low
+CLM-2024-10158,CUST-5920,4989.18,health,2025-03-15,POL-332665,47,15,2023-12-21,17417.11,1,Emergency room visit,"Houston, TX",low
+CLM-2024-10159,CUST-5521,6925.7,health,2025-12-27,POL-680557,58,12,2025-01-01,21296.85,0,Specialist consultation,"Chicago, IL",low
+CLM-2024-10160,CUST-3557,6287.53,auto,2024-10-04,POL-245131,28,2,2024-08-05,23162.23,0,Side-impact collision at intersection,"Phoenix, AZ",low
+CLM-2024-10161,CUST-4817,9859.95,home,2024-06-01,POL-368691,34,31,2021-11-14,27263.86,0,Fire damage to kitchen,"Phoenix, AZ",low
+CLM-2024-10162,CUST-4562,4854.33,auto,2024-12-05,POL-869933,66,3,2024-09-06,7523.88,0,Theft of vehicle parts,"Los Angeles, CA",low
+CLM-2024-10163,CUST-8999,148882.33,health,2024-09-11,POL-965814,27,17,2023-04-20,380649.92,0,Surgical procedure,"Los Angeles, CA",low
+CLM-2024-10164,CUST-7251,65469.51,health,2025-03-17,POL-182289,38,31,2022-08-30,231294.29,0,Emergency room visit,"New York, NY",low
+CLM-2024-10165,CUST-8115,90634.87,life,2025-02-10,POL-536754,24,6,2024-08-14,230128.23,1,Accidental death claim,"Los Angeles, CA",low
+CLM-2024-10166,CUST-1187,2716.71,health,2025-05-31,POL-764678,54,26,2023-04-12,7388.77,0,Prescription medication costs,"San Antonio, TX",low
+CLM-2024-10167,CUST-6231,2391.51,auto,2024-07-31,POL-666157,52,10,2023-10-05,6492.27,1,Vehicle collision on highway,"Chicago, IL",low
+CLM-2024-10168,CUST-3509,25702.43,home,2024-02-04,POL-152973,57,38,2020-12-21,84734.44,0,Fire damage to kitchen,"San Antonio, TX",low
+CLM-2024-10169,CUST-4638,837498.92,life,2024-05-19,POL-552917,41,5,2023-12-21,1770930.38,0,Death benefit claim,"Phoenix, AZ",high
+CLM-2024-10170,CUST-6507,12580.72,health,2025-08-20,POL-186554,41,73,2019-08-22,38734.29,0,Surgical procedure,"Dallas, TX",low
+CLM-2024-10171,CUST-7540,5924.31,health,2025-11-29,POL-375311,28,11,2025-01-03,18112.9,0,Physical therapy treatment,"Los Angeles, CA",low
+CLM-2024-10172,CUST-3136,15679.95,home,2024-10-31,POL-899049,67,5,2024-06-03,39448.1,0,Electrical fire damage,"Chicago, IL",low
+CLM-2024-10173,CUST-7476,35625.97,home,2025-06-30,POL-783932,47,13,2024-06-05,60939.38,0,Theft of personal property,"Houston, TX",low
+CLM-2024-10174,CUST-4970,425.39,health,2024-07-31,POL-175124,54,2,2024-06-01,1327.25,1,Surgical procedure,"Phoenix, AZ",low
+CLM-2024-10175,CUST-2467,1159.82,health,2025-02-21,POL-217996,57,35,2022-04-08,4327.49,1,Prescription medication costs,"San Antonio, TX",low
+CLM-2024-10176,CUST-6254,11029.14,home,2025-01-27,POL-461260,41,6,2024-07-31,36743.93,1,Fire damage to kitchen,"New York, NY",low
+CLM-2024-10177,CUST-8245,13333.75,health,2025-07-29,POL-753453,29,6,2025-01-30,33705.3,0,Hospital admission,"Chicago, IL",low
+CLM-2024-10178,CUST-7124,4930.76,home,2025-05-24,POL-263568,25,1,2025-04-24,9203.37,1,Fire damage to kitchen,"Los Angeles, CA",low
+CLM-2024-10179,CUST-3419,4872.87,auto,2025-11-24,POL-972881,51,22,2024-02-03,14893.28,0,Rear-end accident in parking lot,"Phoenix, AZ",low
+CLM-2024-10180,CUST-2823,1909.88,auto,2024-02-08,POL-419939,30,35,2021-03-25,7387.19,1,Hit and run incident,"Dallas, TX",low
+CLM-2024-10181,CUST-9814,12320.97,home,2025-02-13,POL-322167,66,15,2023-11-21,47327.72,2,Fire damage to kitchen,"Houston, TX",low
+CLM-2024-10182,CUST-8913,11175.55,health,2025-04-29,POL-753306,52,5,2024-11-30,43368.4,2,Physical therapy treatment,"Chicago, IL",high
+CLM-2024-10183,CUST-7170,29038.71,health,2024-03-05,POL-711324,80,24,2022-03-16,113277.6,0,Emergency room visit,"New York, NY",low
+CLM-2024-10184,CUST-4288,6164.11,auto,2025-11-18,POL-927524,45,64,2020-08-16,9450.83,1,Side-impact collision at intersection,"Phoenix, AZ",low
+CLM-2024-10185,CUST-2091,66993.42,auto,2024-03-19,POL-507523,18,16,2022-11-25,215121.79,0,Vehicle collision on highway,"Phoenix, AZ",low
+CLM-2024-10186,CUST-2767,5059.47,health,2024-03-14,POL-120005,68,15,2022-12-20,15788.8,0,Hospital admission,"Phoenix, AZ",low
+CLM-2024-10187,CUST-4787,4114.35,health,2024-03-25,POL-499194,47,22,2022-06-04,16070.01,0,Diagnostic tests and imaging,"Los Angeles, CA",low
+CLM-2024-10188,CUST-4054,61945.37,life,2024-09-09,POL-308535,33,23,2022-10-20,217380.78,0,Death benefit claim,"Dallas, TX",low
+CLM-2024-10189,CUST-1651,5960.92,health,2024-01-20,POL-359409,18,33,2021-05-05,17091.68,0,Emergency room visit,"Phoenix, AZ",low
+CLM-2024-10190,CUST-3572,24769.69,home,2024-12-12,POL-119264,31,12,2023-12-18,42772.36,2,Tree fell on house,"Philadelphia, PA",low
+CLM-2024-10191,CUST-5953,2820.48,health,2025-01-20,POL-347678,53,3,2024-10-22,8624.59,1,Prescription medication costs,"Phoenix, AZ",low
+CLM-2024-10192,CUST-7343,2028.46,health,2024-04-18,POL-954441,62,6,2023-10-21,6661.77,1,Hospital admission,"New York, NY",low
+CLM-2024-10193,CUST-3485,166575.01,life,2025-04-07,POL-458388,48,3,2025-01-07,316850.78,0,Terminal illness benefit,"San Antonio, TX",high
+CLM-2024-10194,CUST-7262,16237.08,health,2025-10-21,POL-646012,60,2,2025-08-22,57423.45,0,Prescription medication costs,"Houston, TX",low
+CLM-2024-10195,CUST-7987,53370.61,home,2024-06-11,POL-427557,45,72,2018-07-13,132651.38,0,Fire damage to kitchen,"Philadelphia, PA",low
+CLM-2024-10196,CUST-3270,93240.88,home,2025-09-06,POL-709254,44,15,2024-06-13,337248.77,0,Fire damage to kitchen,"Houston, TX",low
+CLM-2024-10197,CUST-9582,28287.56,health,2025-03-08,POL-241822,39,9,2024-06-11,82937.18,0,Prescription medication costs,"San Antonio, TX",low
+CLM-2024-10198,CUST-6201,31236.43,life,2025-08-23,POL-171108,55,15,2024-05-30,55196.41,0,Terminal illness benefit,"Los Angeles, CA",low
+CLM-2024-10199,CUST-1483,4814.59,auto,2025-08-22,POL-902616,31,14,2024-06-28,7645.08,0,Vandalism damage to vehicle,"Philadelphia, PA",low

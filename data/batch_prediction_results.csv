@@ -1,0 +1,11 @@
+risk_level,confidence,probability_low_risk,probability_high_risk,recommendation,claim_id,claim_amount
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10000,18053.25
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10001,3916.88
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10002,3307.48
+low,0.9942857142857143,0.9942857142857143,0.005714285714285714,Auto-Approve,CLM-2024-10003,1647.98
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10004,1464.53
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10005,2582.22
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10006,26686.13
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10007,3661.32
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10008,10986.65
+low,1.0,1.0,0.0,Auto-Approve,CLM-2024-10009,35512.27

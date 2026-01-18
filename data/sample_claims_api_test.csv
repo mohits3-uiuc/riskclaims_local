@@ -1,0 +1,11 @@
+claim_id,customer_id,claim_amount,claim_type,claim_date,policy_id,customer_age,policy_duration,policy_start_date,policy_coverage,previous_claims,claim_description,location
+CLM-2024-10000,CUST-8583,18053.25,auto,2025-02-13,POL-566991,40,27,2022-11-26,58223.85,0,Single vehicle accident,"Philadelphia, PA"
+CLM-2024-10001,CUST-2783,3916.88,health,2024-09-07,POL-284308,39,22,2022-11-17,9663.01,0,Physical therapy treatment,"Los Angeles, CA"
+CLM-2024-10002,CUST-4218,3307.48,health,2025-08-28,POL-376021,36,58,2020-11-22,8962.11,0,Physical therapy treatment,"Los Angeles, CA"
+CLM-2024-10003,CUST-9309,1647.98,health,2025-12-30,POL-762308,39,62,2020-11-26,6451.15,0,Specialist consultation,"New York, NY"
+CLM-2024-10004,CUST-4485,1464.53,health,2024-06-05,POL-138436,54,18,2022-12-13,4153.99,1,Diagnostic tests and imaging,"Phoenix, AZ"
+CLM-2024-10005,CUST-3435,2582.22,health,2024-07-15,POL-483588,37,59,2019-09-10,6275.33,0,Diagnostic tests and imaging,"San Antonio, TX"
+CLM-2024-10006,CUST-5767,26686.13,auto,2024-05-25,POL-240384,33,72,2018-06-26,98798.4,1,Vandalism damage to vehicle,"Dallas, TX"
+CLM-2024-10007,CUST-6961,3661.32,health,2025-10-18,POL-626560,22,32,2023-03-03,8623.62,1,Diagnostic tests and imaging,"New York, NY"
+CLM-2024-10008,CUST-3717,10986.65,health,2024-04-30,POL-893988,44,16,2023-01-06,41462.2,0,Prescription medication costs,"Chicago, IL"
+CLM-2024-10009,CUST-3395,35512.27,home,2025-07-19,POL-871667,67,40,2022-04-06,91772.08,0,Vandalism to property,"Dallas, TX"
