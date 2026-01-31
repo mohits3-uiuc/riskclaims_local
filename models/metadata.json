@@ -1,47 +1,36 @@
 {
+  "model_type": "RandomForestClassifier",
+  "training_date": "2026-01-19 17:32:24",
   "feature_names": [
     "claim_amount",
     "customer_age",
     "policy_duration",
     "policy_coverage",
     "previous_claims",
-    "claim_to_coverage_ratio",
-    "claim_per_month",
-    "is_high_claim",
-    "is_new_policy",
-    "has_prior_claims",
-    "multiple_prior_claims",
+    "policy_age",
+    "claim_coverage_ratio",
     "claim_type_encoded",
-    "age_group_encoded",
-    "days_since_claim",
-    "days_policy_to_claim"
+    "location_encoded"
   ],
-  "model_type": "RandomForestClassifier",
-  "training_date": "2026-01-18T14:00:23.389418",
+  "num_features": 9,
   "training_samples": 640,
   "test_samples": 160,
   "metrics": {
-    "accuracy": 1.0,
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1": 1.0
+    "accuracy": 0.98125,
+    "precision": 0.9816200657894736,
+    "recall": 0.98125,
+    "f1_score": 0.9798631753803113
   },
-  "config": {
-    "data_path": "data/sample_claims_train.csv",
-    "test_size": 0.2,
+  "hyperparameters": {
+    "n_estimators": 50,
+    "max_depth": 10,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2,
     "random_state": 42,
-    "model_params": {
-      "n_estimators": 50,
-      "max_depth": 10,
-      "min_samples_split": 5,
-      "min_samples_leaf": 2,
-      "random_state": 42,
-      "n_jobs": -1
-    },
-    "model_path": "models/risk_model.pkl",
-    "scaler_path": "models/scaler.pkl",
-    "encoders_path": "models/encoders.pkl",
-    "metadata_path": "models/metadata.json"
+    "n_jobs": -1
   },
-  "version": "1.0.0"
+  "class_distribution": {
+    "low": 596,
+    "high": 44
+  }
 }
